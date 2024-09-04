@@ -1,3 +1,4 @@
-notebooks/data
+notebooks/data/
 notebooks/*.pth
+notebooks/checkpoints/
 .ipynb_checkpoints/
